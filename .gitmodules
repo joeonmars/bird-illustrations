@@ -1,0 +1,3 @@
+[submodule "source/assets/js/server"]
+	path = source/assets/js/server
+	url = https://joeonmars@github.com/joeonmars/bird-illustrations-backend.git
