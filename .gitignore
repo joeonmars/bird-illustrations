@@ -1,0 +1,9 @@
+/.sass-cache
+/node_modules
+/bower_components
+/source/assets/js/client/thirdparty/closure-library
+/source/assets/js/server/node_modules
+Gemfile.lock
+*.DS_Store
+*.sublime-workspace
+*.scssc
